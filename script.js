@@ -37,6 +37,6 @@ console.table(q,p,Math.round(delta * 1000)/1000);
 alert("X1 : " + x1 + " , x2 : " + x2 + " , x3 : " + x3);
 } 
     
-}
+}} 
 
 btn.addEventListener("click",Calculate);
